@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://127.0.0.1:5432/metaland
+    username: metaland
+    password: metaland
+  redis:
+    host: 127.0.0.1
+    port: 6379    
